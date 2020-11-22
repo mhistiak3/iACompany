@@ -1,0 +1,64 @@
+/* --------------Start Header-------------------- */
+#topHeader{
+    border-bottom: 1px solid #ebebeb;
+    
+}
+#topHeader a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+.navbar-brand{
+    font-size: 1.5em;
+}
+nav ul li a{
+    font-size: 1.1em;
+    font-weight: 400;
+}
+.modal{
+    background-color: rgba(192, 192, 192,0.2);
+}
+.modal-body{
+    background-color: silver;
+}
+/* --------start Footer------------- */
+.full-footer{
+    background-color:#243c4f ;  
+}
+.top-footer h3, p {
+    color: #ffffff;
+}
+.top-footer a{
+    color: white;
+    font-weight: 600;
+}
+.bottom-footer{
+    background-color: #031b2e;
+}
+.bottom-footer p{
+    color: #ffffff;
+    text-align: center;
+    padding-top: 8px;
+}
+@media screen and (max-width:500px){
+    .full-footer{
+        text-align: center;
+    }
+}
+/* END Footer------------------ */
+
+/* --------------------------Start home first hero section-------------- */
+.top-hero-section{
+    background-color: #3498db;
+    color: #fff;
+
+}
+.top-hero-section a{
+    color: #fff;
+    font-weight: 600;
+}
+.Quality-img img{
+    width: 100px;
+    padding: 30px 0;
+}
+/* End------------- home first hero section- */
